@@ -2,4 +2,4 @@
 #version=$1
 
 #Обновляемся
-apt -y update && apt -y upgrade
+sudo apt-get -y update && apt-get -y upgrade
